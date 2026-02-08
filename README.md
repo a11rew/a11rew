@@ -1,4 +1,4 @@
-### 👋 Hi there, thanks for stopping by
+### 👋 Hi!
 
 I'm here a lot, maybe too much, connecting dots that may or may not form coherent pictures. 
 
