@@ -1,8 +1,8 @@
 ### 👋 Hi!
 
-I'm here a lot, maybe too much, connecting dots that may or may not form coherent pictures. 
+I'm here a lot, maybe too much, connecting dots in search of coherent pictures. 
 
-I'm unreasonably optimistic about, and deeply invested in: 
+I'm unreasonably optimistic about, and so spend my time in/on: 
 - Everything web: The [web platform](https://en.wikipedia.org/wiki/Web_platform) is underrated as an application runtime. 
 - Personal, [local-first](https://www.localfirst.fm/landscape) software, and the death of the loading spinner. 
 - Probabilistic word generators _and/as_ [machines of loving grace](https://darioamodei.com/essay/machines-of-loving-grace).
